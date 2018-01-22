@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "805859134132",
+    "firebase_url": "https://lschatter-56320.firebaseio.com",
+    "project_id": "lschatter-56320",
+    "storage_bucket": "lschatter-56320.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805859134132:android:96cc608323312909",
+        "android_client_info": {
+          "package_name": "com.users.bhavya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805859134132-ocdb2klbidhtvapmqse9d8332rs7bm55.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.users.bhavya",
+            "certificate_hash": "d592c60aeaa5ee81daa9d1520e747f8840d11118"
+          }
+        },
+        {
+          "client_id": "805859134132-ett3gghpvhunckfvct8mk2pemcfv4d16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGxeaVhwVYDuHja_xXVyWYOPT_fJMLH3c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805859134132-ett3gghpvhunckfvct8mk2pemcfv4d16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
